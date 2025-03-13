@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+@import '@splidejs/react-splide/css';
+@import '@splidejs/react-splide/css/skyblue';
+@import '@splidejs/react-splide/css/sea-green';
+@import '@splidejs/react-splide/css/core';
+
+@import url("./assets/font/Poppins.css");
+
+body{
+    @apply font-[Poppins];
+    background: #EEEEEE;
+}
